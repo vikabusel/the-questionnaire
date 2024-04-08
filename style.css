@@ -16,19 +16,19 @@ body {
 }
 
 input {
-  border: 2px solid #FD51AF;
+  border: 2px solid #ADD8E6;
   border-radius: 4px;
   line-height: 24px;
   font-size: 18px;
 }
 
 input:focus {
-  outline: #B00265;
+  outline: #F0E68C;
 }
 
 .required {
   font-size: 1.2em;
-  color: #06B000;
+  color: #EE82EE;
 }
 
 .form {
@@ -58,15 +58,15 @@ input:focus {
 }
 
 .send-btn {
-  background: #06B000;
+  background:#4169E1 ;
   color: #fff;
   padding: 10px 0;
-  border-color: #068400;
+  border-color: #4169E1;
   cursor: pointer;
 }
 
 .send-btn:hover {
-  background: #08A800;
+  background: #6495ED;
 }
 
 .clear-btn {
